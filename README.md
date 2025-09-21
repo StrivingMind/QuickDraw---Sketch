@@ -38,10 +38,10 @@ Splits: 70% train, 15% validation, 15% test.
 
 ## Results
 Stroke by stroke generation:
-    ![Stroke generation](video/strokes sequence.mov)
+![Stroke generation](video/strokes_sequence.mov)
 
 ## Feedback-Based Adaptation
 The model can refine its output based on user ratings:
-    ![Before Adaptation](images/before_adaptation.png)
+![Before Adaptation](images/before_adaptation.png)
 
-    ![After Adaptation](images/after_adaptation.png)
+![After Adaptation](images/after_adaptation.png)
